@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.test</groupId>
   <artifactId>demo-lib</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <scm>
     <connection>scm:git:https://github.com/francis007-del-01/dep-resolver-sandbox-lib.git</connection>
     <url>https://github.com/francis007-del-01/dep-resolver-sandbox-lib</url>
